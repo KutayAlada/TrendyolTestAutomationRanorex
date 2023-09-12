@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="8d2345ab-bb4c-49fd-8afb-968825a773fb"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="MyTest4">
+	</codegen>
+	<variables>
+		<var
+		id="cd291874-1b95-481f-b9c0-d2038b6f7729"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Program Files\Google\Chrome\Application\chrome.exe
+			</filename>
+			<workingdir>
+				C:\Program Files\Google\Chrome\Application
+			</workingdir>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="86ad15f9-3cb8-42b2-9af7-82545f5bf44f"
+	name="MyTest4Repository"
+	relativepath="MyTest4Repository.rxrep">
+		<codegen
+		classname="MyTest4Repository"
+		namespace="MyTest4">
+		</codegen>
+		<rootfolder
+		id="a57be1fa-833d-4bb4-9352-6e07ac5c49d1"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

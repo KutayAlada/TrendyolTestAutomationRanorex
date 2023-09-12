@@ -1,0 +1,842 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyTest4</name>
+    </assembly>
+    <members>
+        <member name="T:MyTest4.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:MyTest4.CloseAUT.repo">
+            <summary>
+            Holds an instance of the MyTest4Repository repository.
+            </summary>
+        </member>
+        <member name="M:MyTest4.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:MyTest4.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:MyTest4.CloseAUT.CloseAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable CloseAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:MyTest4.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:MyTest4.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:MyTest4.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:MyTest4.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4Repository">
+            <summary>
+            The class representing the MyTest4Repository element repository.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.Instance">
+            <summary>
+            Gets the singleton class instance representing the MyTest4Repository element repository.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4Repository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.EnTrendUEruenlerTuerkiyeninOnlineAl">
+            <summary>
+            The EnTrendUEruenlerTuerkiyeninOnlineAl folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.TRENDYOLMANLimitedEditionAntrasitEr">
+            <summary>
+            The TRENDYOLMANLimitedEditionAntrasitEr folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.RonarexHowToStartChromeAppGoogle">
+            <summary>
+            The RonarexHowToStartChromeAppGoogle folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.TRENDYOLMANAntrasitErkekBasicRegula">
+            <summary>
+            The TRENDYOLMANAntrasitErkekBasicRegula folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.TuemUEruenlerTrendyolGoogleChrom">
+            <summary>
+            The TuemUEruenlerTrendyolGoogleChrom folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4Repository.TRENDYOLMANIndigoErkekOversizeFitG">
+            <summary>
+            The TRENDYOLMANIndigoErkekOversizeFitG folder.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder">
+            <summary>
+            The EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new EnTrendUEruenlerTuerkiyeninOnlineAl  folder.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle1InfoClass">
+            <summary>
+            The SepeteEkle1InfoClass folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle1InfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            SepeteEkle1InfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle1InfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle1InfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.GirişYap">
+            <summary>
+            The GirişYap item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.GirişYapInfo">
+            <summary>
+            The GirişYap item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.LoginEmail">
+            <summary>
+            The LoginEmail item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.LoginEmailInfo">
+            <summary>
+            The LoginEmail item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.GirişYap1">
+            <summary>
+            The GirişYap1 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.GirişYap1Info">
+            <summary>
+            The GirişYap1 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.BrowsingGwHomepage">
+            <summary>
+            The BrowsingGwHomepage item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.BrowsingGwHomepageInfo">
+            <summary>
+            The BrowsingGwHomepage item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.Erkek">
+            <summary>
+            The Erkek item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.ErkekInfo">
+            <summary>
+            The Erkek item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.TRENDYOLMANYeniSezonŞıklığı">
+            <summary>
+            The TRENDYOLMANYeniSezonŞıklığı item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.TRENDYOLMANYeniSezonŞıklığıInfo">
+            <summary>
+            The TRENDYOLMANYeniSezonŞıklığı item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle">
+            <summary>
+            The SepeteEkle item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkleInfo">
+            <summary>
+            The SepeteEkle item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.FlexContainer">
+            <summary>
+            The FlexContainer item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.FlexContainerInfo">
+            <summary>
+            The FlexContainer item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle1">
+            <summary>
+            The SepeteEkle1 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepeteEkle1Info">
+            <summary>
+            The SepeteEkle1 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.TRENDYOLMANYeniSezonŞıklığı1">
+            <summary>
+            The TRENDYOLMANYeniSezonŞıklığı1 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.TRENDYOLMANYeniSezonŞıklığı1Info">
+            <summary>
+            The TRENDYOLMANYeniSezonŞıklığı1 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.ProductDetailApp">
+            <summary>
+            The ProductDetailApp item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.ProductDetailAppInfo">
+            <summary>
+            The ProductDetailApp item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.Sepetim">
+            <summary>
+            The Sepetim item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepetimInfo">
+            <summary>
+            The Sepetim item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepetiOnayla">
+            <summary>
+            The SepetiOnayla item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.SepetiOnaylaInfo">
+            <summary>
+            The SepetiOnayla item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.EnTrendUEruenlerTuerkiyeninOnlineAlAppFolder.PrdctCntnrWrppr">
+            <summary>
+            The PrdctCntnrWrppr folder.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder">
+            <summary>
+            The PrdctCntnrWrpprFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new PrdctCntnrWrppr  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody">
+            <summary>
+            The ImageOverlayBody item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBodyInfo">
+            <summary>
+            The ImageOverlayBody item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn8">
+            <summary>
+            The FvrtBtn8 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn8Info">
+            <summary>
+            The FvrtBtn8 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn9">
+            <summary>
+            The FvrtBtn9 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn9Info">
+            <summary>
+            The FvrtBtn9 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn10">
+            <summary>
+            The FvrtBtn10 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn10Info">
+            <summary>
+            The FvrtBtn10 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn">
+            <summary>
+            The FvrtBtn item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtnInfo">
+            <summary>
+            The FvrtBtn item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn1">
+            <summary>
+            The FvrtBtn1 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn1Info">
+            <summary>
+            The FvrtBtn1 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn2">
+            <summary>
+            The FvrtBtn2 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn2Info">
+            <summary>
+            The FvrtBtn2 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn3">
+            <summary>
+            The FvrtBtn3 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn3Info">
+            <summary>
+            The FvrtBtn3 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn4">
+            <summary>
+            The FvrtBtn4 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn4Info">
+            <summary>
+            The FvrtBtn4 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn5">
+            <summary>
+            The FvrtBtn5 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn5Info">
+            <summary>
+            The FvrtBtn5 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody2">
+            <summary>
+            The ImageOverlayBody2 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody2Info">
+            <summary>
+            The ImageOverlayBody2 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn6">
+            <summary>
+            The FvrtBtn6 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn6Info">
+            <summary>
+            The FvrtBtn6 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody1">
+            <summary>
+            The ImageOverlayBody1 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody1Info">
+            <summary>
+            The ImageOverlayBody1 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn7">
+            <summary>
+            The FvrtBtn7 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn7Info">
+            <summary>
+            The FvrtBtn7 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody3">
+            <summary>
+            The ImageOverlayBody3 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody3Info">
+            <summary>
+            The ImageOverlayBody3 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody4">
+            <summary>
+            The ImageOverlayBody4 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody4Info">
+            <summary>
+            The ImageOverlayBody4 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlay">
+            <summary>
+            The ImageOverlay item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayInfo">
+            <summary>
+            The ImageOverlay item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody5">
+            <summary>
+            The ImageOverlayBody5 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody5Info">
+            <summary>
+            The ImageOverlayBody5 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody6">
+            <summary>
+            The ImageOverlayBody6 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody6Info">
+            <summary>
+            The ImageOverlayBody6 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody7">
+            <summary>
+            The ImageOverlayBody7 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody7Info">
+            <summary>
+            The ImageOverlayBody7 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody8">
+            <summary>
+            The ImageOverlayBody8 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody8Info">
+            <summary>
+            The ImageOverlayBody8 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn11">
+            <summary>
+            The FvrtBtn11 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.FvrtBtn11Info">
+            <summary>
+            The FvrtBtn11 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody9">
+            <summary>
+            The ImageOverlayBody9 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.PrdctCntnrWrpprFolder.ImageOverlayBody9Info">
+            <summary>
+            The ImageOverlayBody9 item info.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder">
+            <summary>
+            The TRENDYOLMANLimitedEditionAntrasitErAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new TRENDYOLMANLimitedEditionAntrasitEr  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane">
+            <summary>
+            The Pane item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.PaneInfo">
+            <summary>
+            The Pane item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane1">
+            <summary>
+            The Pane1 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane1Info">
+            <summary>
+            The Pane1 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane2">
+            <summary>
+            The Pane2 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane2Info">
+            <summary>
+            The Pane2 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane3">
+            <summary>
+            The Pane3 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane3Info">
+            <summary>
+            The Pane3 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane4">
+            <summary>
+            The Pane4 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane4Info">
+            <summary>
+            The Pane4 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Geri">
+            <summary>
+            The Geri item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.GeriInfo">
+            <summary>
+            The Geri item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane5">
+            <summary>
+            The Pane5 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane5Info">
+            <summary>
+            The Pane5 item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane6">
+            <summary>
+            The Pane6 item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANLimitedEditionAntrasitErAppFolder.Pane6Info">
+            <summary>
+            The Pane6 item info.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.RonarexHowToStartChromeAppGoogleAppFolder">
+            <summary>
+            The RonarexHowToStartChromeAppGoogleAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.RonarexHowToStartChromeAppGoogleAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RonarexHowToStartChromeAppGoogle  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.RonarexHowToStartChromeAppGoogleAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.RonarexHowToStartChromeAppGoogleAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANAntrasitErkekBasicRegulaAppFolder">
+            <summary>
+            The TRENDYOLMANAntrasitErkekBasicRegulaAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANAntrasitErkekBasicRegulaAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new TRENDYOLMANAntrasitErkekBasicRegula  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANAntrasitErkekBasicRegulaAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANAntrasitErkekBasicRegulaAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANAntrasitErkekBasicRegulaAppFolder.Pane">
+            <summary>
+            The Pane item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANAntrasitErkekBasicRegulaAppFolder.PaneInfo">
+            <summary>
+            The Pane item info.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.TuemUEruenlerTrendyolGoogleChromAppFolder">
+            <summary>
+            The TuemUEruenlerTrendyolGoogleChromAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.TuemUEruenlerTrendyolGoogleChromAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new TuemUEruenlerTrendyolGoogleChrom  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TuemUEruenlerTrendyolGoogleChromAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TuemUEruenlerTrendyolGoogleChromAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TuemUEruenlerTrendyolGoogleChromAppFolder.Pane">
+            <summary>
+            The Pane item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TuemUEruenlerTrendyolGoogleChromAppFolder.PaneInfo">
+            <summary>
+            The Pane item info.
+            </summary>
+        </member>
+        <member name="T:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANIndigoErkekOversizeFitGAppFolder">
+            <summary>
+            The TRENDYOLMANIndigoErkekOversizeFitGAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANIndigoErkekOversizeFitGAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new TRENDYOLMANIndigoErkekOversizeFitG  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANIndigoErkekOversizeFitGAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANIndigoErkekOversizeFitGAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANIndigoErkekOversizeFitGAppFolder.Pane">
+            <summary>
+            The Pane item.
+            </summary>
+        </member>
+        <member name="P:MyTest4.MyTest4RepositoryFolders.TRENDYOLMANIndigoErkekOversizeFitGAppFolder.PaneInfo">
+            <summary>
+            The Pane item info.
+            </summary>
+        </member>
+        <member name="T:MyTest4.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:MyTest4.Recording1.repo">
+            <summary>
+            Holds an instance of the MyTest4Repository repository.
+            </summary>
+        </member>
+        <member name="M:MyTest4.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:MyTest4.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:MyTest4.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:MyTest4.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:MyTest4.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:MyTest4.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:MyTest4.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:MyTest4.StartAUT.repo">
+            <summary>
+            Holds an instance of the MyTest4Repository repository.
+            </summary>
+        </member>
+        <member name="M:MyTest4.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:MyTest4.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:MyTest4.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:MyTest4.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:MyTest4.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:MyTest4.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:MyTest4.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

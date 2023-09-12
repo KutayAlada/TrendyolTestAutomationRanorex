@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="2d081397-f6b7-486d-8345-307ea3fea037"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="MyTest4">
+	</codegen>
+	<variables>
+		<var
+		id="dc935160-94e6-496f-b882-0ee70e7881d2"
+		name="CloseAutProcessIDVar">
+			-1
+		</var>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="100ms"
+		enabled="True"
+		loc="20;16"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="f4721359-cf00-4d0d-b04e-6ef31f17f0a3"
+		sx="-400"
+		sy="149"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="a6ecb420-52a0-498c-9620-bf787a9bc738"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, ptag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="1"
+				prefcap="ptag"
+				rect="-420,133,51,18"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						link-text
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Sepetim
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						link-text
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						p
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.trendyol.com']//div[#'account-navigation-container']/div/div[2]/a[@href&gt;'https://www.trendyol.com/']/p[@innertext='Sepetim']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="ace39fa8-8f95-46a9-a4b6-7ebca0778ced">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAA8AFkDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKK
+ACiiigAooooAKKKKACiiigAooooAia4RHKyfIe2e9J9rg/56iq2qLzG31FZ9c06zjKx0wpRlG5LZ
+yapeRGSO5jADbfmUf4e9T+RrH/P1D+X/ANjR4f8A+PF/+uh/kKtqWSfEu/5mO1gflPtitFsrl1Z8
+s3FJaeSKnkax/wA/UP5f/Y0eRrH/AD9Q/l/9jVkXLmMuF42lh8pGPx705p3TKsATgEYB7mnp3I55
+fyr7ip5Gsf8AP1D+X/2NHkax/wA/UP5f/Y1a82VmQAhcsQcoRnj3oEr79q4GXYZOT0/GjQPaPsvu
+KcqatFE8jXURCKWOAO3/AAGrmmyvPYRyStuds5OMdzUU8zvZybguHhc8dsCl0f8A5BkP/Av/AEI0
+R30HN3pXaV79PmXaKKK0OUiuU3oCFLEHgDH9aa0TIhKOxIHAAUZ/Sp6KlxKUnsZnh/8A48X/AOuh
+/kK0BEgbdg5znqcflWf/AGFa/wDPSb8x/hR/YVr/AM9JvzH+FSrpWsdFR05ycubfy/4JZu9kFrIy
+oxLYUKp7sQBgE46mnWvlz2+8Rsu4lWD9QQSPX1FUZdKgtvLmR5CyzR4BIx98D0qjdWBdpp1mIJ8+
+QqVBHyvjH45qkvIzfLe3M7en/BOhMSFQDk4OQdxz+dAiQNuA5yT17msez0iORZFuGYSxvtYow2ng
+HuPerH9hWv8Az0m/Mf4Utew+Wn/O/u/4Jau4kWxl2jG2JwOenFR6P/yDIf8AgX/oRqH+wrX/AJ6T
+fmP8KvW0C20CwoSVXOCevXNCTvew5ygqfKnfUloooqznCiiigAooooAy1gdrtoppZUk83zUy5ZJE
+DBgAD0I4HH8jWpgEYxVTU4lNo84yssCtJG46qQP5HuKpS6pcLpK3IEfmFfQ4oAv2hBnvMf8APYf+
+gJVmqmloF0+FsktKokdj1Zm5NW6ACiiigAooooA//9k=
+			</helperscreenshot>
+		</mouseitem>
+		<validationitem
+		action="AttributeEqual"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		searchpropertyid="54b1508d-33e4-491d-8aff-794c6fdb1f9f"
+		similarity="1">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="e2f83a63-61c9-4fed-bef1-a22286e57f80"
+			sourcename="ElementTree">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="0"
+				prefcap="spantag"
+				rect="-555,262,108,24"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Sepeti Onayla
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.trendyol.com']//div[#'pb-container']/aside/div/div[1]/?/?/span[@innertext='Sepeti Onayla']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="f003c066-b7b5-424b-9f9f-62704227ddf3">
+				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
+			</helperscreenshot>
+			<matchname>
+				Visible
+			</matchname>
+			<matchvalue>
+				True
+			</matchvalue>
+		</validationitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="78;13"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="79a1a099-8528-4b56-835c-b3f4b0381626"
+		sx="-477"
+		sy="275"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="e2f83a63-61c9-4fed-bef1-a22286e57f80"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="0"
+				prefcap="spantag"
+				rect="-555,262,108,24"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Sepeti Onayla
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='www.trendyol.com']//div[#'pb-container']/aside/div/div[1]/?/?/span[@innertext='Sepeti Onayla']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<helperscreenshot
+			guid="7cad5e8f-5a69-45fd-b853-0a02767b1929">
+				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
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="86ad15f9-3cb8-42b2-9af7-82545f5bf44f"
+	name="MyTest4Repository"
+	relativepath="MyTest4Repository.rxrep">
+		<codegen
+		classname="MyTest4Repository"
+		namespace="MyTest4">
+		</codegen>
+		<rootfolder
+		id="a57be1fa-833d-4bb4-9352-6e07ac5c49d1"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

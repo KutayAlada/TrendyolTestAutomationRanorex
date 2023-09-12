@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\MyTest4.rxtmg
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\MyTest4.rxtst
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\MyTest4.exe.config
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\MyTest4.xml
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\MyTest4.exe
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\MyTest4.pdb
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\obj\x86\Debug\MyTest4.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\obj\x86\Debug\MyTest4.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\obj\x86\Debug\MyTest4.csproj.CopyComplete
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\obj\x86\Debug\MyTest4.exe
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\obj\x86\Debug\MyTest4.pdb
+C:\Users\pc\Documents\Ranorex\RanorexStudio Projects\MyTest4\MyTest4\bin\Debug\RepositoryImages\MyTest4Repositorya57be1fa.rximgres
